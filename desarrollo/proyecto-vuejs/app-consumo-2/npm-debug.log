@@ -1,0 +1,267 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/salai/.nvm/v0.10.31/bin/node',
+1 verbose cli   '/home/salai/.nvm/v0.10.31/bin/npm',
+1 verbose cli   'install' ]
+2 info using npm@1.4.23
+3 info using node@v0.10.31
+4 verbose readDependencies using package.json deps
+5 verbose install where, deps [ '/home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2',
+5 verbose install   [ 'axios',
+5 verbose install     'bootstrap',
+5 verbose install     'bootstrap-vue',
+5 verbose install     'core-js',
+5 verbose install     'vee-validate',
+5 verbose install     'vue',
+5 verbose install     'vue-router',
+5 verbose install     'vuex',
+5 verbose install     '@vue/cli-plugin-babel',
+5 verbose install     '@vue/cli-plugin-eslint',
+5 verbose install     '@vue/cli-service',
+5 verbose install     'babel-eslint',
+5 verbose install     'eslint',
+5 verbose install     'eslint-plugin-vue',
+5 verbose install     'vue-template-compiler' ] ]
+6 info preinstall app-consumo@0.1.0
+7 warn package.json camel-case@3.0.0 No README data
+8 warn package.json copy-descriptor@0.1.1 No README data
+9 warn package.json de-indent@1.0.2 No README data
+10 warn package.json get-value@2.0.6 No README data
+11 warn package.json launch-editor@2.2.1 No README data
+12 warn package.json launch-editor-middleware@2.2.1 No README data
+13 warn package.json loader-fs-cache@1.0.3 No README data
+14 warn package.json object-copy@0.1.0 No README data
+15 warn package.json path-is-inside@1.0.2 No README data
+16 warn package.json setimmediate@1.0.5 No README data
+17 warn package.json static-extend@0.1.2 No README data
+18 warn package.json watchpack-chokidar2@2.0.1 No description
+19 warn package.json watchpack-chokidar2@2.0.1 No README data
+20 warn package.json assert@1.5.0 assert is also the name of a node core module.
+21 warn package.json buffer@4.9.2 buffer is also the name of a node core module.
+22 warn package.json dotenv-expand@5.1.0 No repository field.
+23 warn package.json events@3.3.0 events is also the name of a node core module.
+24 warn package.json punycode@2.1.1 punycode is also the name of a node core module.
+25 warn package.json querystring@0.2.0 querystring is also the name of a node core module.
+26 warn package.json string_decoder@1.3.0 string_decoder is also the name of a node core module.
+27 warn package.json url@0.11.0 url is also the name of a node core module.
+28 warn package.json util@0.11.1 util is also the name of a node core module.
+29 warn package.json vue-loader@16.3.0 No repository field.
+30 verbose readDependencies using package.json deps
+31 verbose already installed skipping axios@^0.21.1 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+32 verbose already installed skipping bootstrap@^5.0.2 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+33 verbose already installed skipping bootstrap-vue@^2.21.2 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+34 verbose already installed skipping core-js@^3.6.5 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+35 verbose already installed skipping vee-validate@^2.2.15 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+36 verbose already installed skipping vue@^2.6.11 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+37 verbose already installed skipping vue-router@^3.5.2 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+38 verbose already installed skipping vuex@^3.6.2 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+39 verbose cache add [ '@vue/cli-plugin-babel@~4.5.0', null ]
+40 verbose cache add name=undefined spec="@vue/cli-plugin-babel@~4.5.0" args=["@vue/cli-plugin-babel@~4.5.0",null]
+41 verbose parsed url { protocol: null,
+41 verbose parsed url   slashes: null,
+41 verbose parsed url   auth: null,
+41 verbose parsed url   host: null,
+41 verbose parsed url   port: null,
+41 verbose parsed url   hostname: null,
+41 verbose parsed url   hash: null,
+41 verbose parsed url   search: null,
+41 verbose parsed url   query: null,
+41 verbose parsed url   pathname: '@vue/cli-plugin-babel@~4.5.0',
+41 verbose parsed url   path: '@vue/cli-plugin-babel@~4.5.0',
+41 verbose parsed url   href: '@vue/cli-plugin-babel@~4.5.0' }
+42 verbose cache add [ '@vue/cli-plugin-eslint@~4.5.0', null ]
+43 verbose cache add name=undefined spec="@vue/cli-plugin-eslint@~4.5.0" args=["@vue/cli-plugin-eslint@~4.5.0",null]
+44 verbose parsed url { protocol: null,
+44 verbose parsed url   slashes: null,
+44 verbose parsed url   auth: null,
+44 verbose parsed url   host: null,
+44 verbose parsed url   port: null,
+44 verbose parsed url   hostname: null,
+44 verbose parsed url   hash: null,
+44 verbose parsed url   search: null,
+44 verbose parsed url   query: null,
+44 verbose parsed url   pathname: '@vue/cli-plugin-eslint@~4.5.0',
+44 verbose parsed url   path: '@vue/cli-plugin-eslint@~4.5.0',
+44 verbose parsed url   href: '@vue/cli-plugin-eslint@~4.5.0' }
+45 verbose cache add name="" spec="vue/cli-plugin-babel@~4.5.0" args=["","vue/cli-plugin-babel@~4.5.0"]
+46 verbose parsed url { protocol: null,
+46 verbose parsed url   slashes: null,
+46 verbose parsed url   auth: null,
+46 verbose parsed url   host: null,
+46 verbose parsed url   port: null,
+46 verbose parsed url   hostname: null,
+46 verbose parsed url   hash: null,
+46 verbose parsed url   search: null,
+46 verbose parsed url   query: null,
+46 verbose parsed url   pathname: 'vue/cli-plugin-babel@~4.5.0',
+46 verbose parsed url   path: 'vue/cli-plugin-babel@~4.5.0',
+46 verbose parsed url   href: 'vue/cli-plugin-babel@~4.5.0' }
+47 verbose cache add name="" spec="vue/cli-plugin-eslint@~4.5.0" args=["","vue/cli-plugin-eslint@~4.5.0"]
+48 verbose parsed url { protocol: null,
+48 verbose parsed url   slashes: null,
+48 verbose parsed url   auth: null,
+48 verbose parsed url   host: null,
+48 verbose parsed url   port: null,
+48 verbose parsed url   hostname: null,
+48 verbose parsed url   hash: null,
+48 verbose parsed url   search: null,
+48 verbose parsed url   query: null,
+48 verbose parsed url   pathname: 'vue/cli-plugin-eslint@~4.5.0',
+48 verbose parsed url   path: 'vue/cli-plugin-eslint@~4.5.0',
+48 verbose parsed url   href: 'vue/cli-plugin-eslint@~4.5.0' }
+49 verbose cache add name="vue/cli-plugin-babel" spec="~4.5.0" args=["vue/cli-plugin-babel","~4.5.0"]
+50 verbose parsed url { protocol: null,
+50 verbose parsed url   slashes: null,
+50 verbose parsed url   auth: null,
+50 verbose parsed url   host: null,
+50 verbose parsed url   port: null,
+50 verbose parsed url   hostname: null,
+50 verbose parsed url   hash: null,
+50 verbose parsed url   search: null,
+50 verbose parsed url   query: null,
+50 verbose parsed url   pathname: '~4.5.0',
+50 verbose parsed url   path: '~4.5.0',
+50 verbose parsed url   href: '~4.5.0' }
+51 verbose addNamed [ 'vue/cli-plugin-babel', '~4.5.0' ]
+52 verbose addNamed [ null, '>=4.5.0-0 <4.6.0-0' ]
+53 verbose cache add [ '@vue/cli-service@~4.5.0', null ]
+54 verbose cache add name=undefined spec="@vue/cli-service@~4.5.0" args=["@vue/cli-service@~4.5.0",null]
+55 verbose parsed url { protocol: null,
+55 verbose parsed url   slashes: null,
+55 verbose parsed url   auth: null,
+55 verbose parsed url   host: null,
+55 verbose parsed url   port: null,
+55 verbose parsed url   hostname: null,
+55 verbose parsed url   hash: null,
+55 verbose parsed url   search: null,
+55 verbose parsed url   query: null,
+55 verbose parsed url   pathname: '@vue/cli-service@~4.5.0',
+55 verbose parsed url   path: '@vue/cli-service@~4.5.0',
+55 verbose parsed url   href: '@vue/cli-service@~4.5.0' }
+56 verbose cache add name="vue/cli-plugin-eslint" spec="~4.5.0" args=["vue/cli-plugin-eslint","~4.5.0"]
+57 verbose parsed url { protocol: null,
+57 verbose parsed url   slashes: null,
+57 verbose parsed url   auth: null,
+57 verbose parsed url   host: null,
+57 verbose parsed url   port: null,
+57 verbose parsed url   hostname: null,
+57 verbose parsed url   hash: null,
+57 verbose parsed url   search: null,
+57 verbose parsed url   query: null,
+57 verbose parsed url   pathname: '~4.5.0',
+57 verbose parsed url   path: '~4.5.0',
+57 verbose parsed url   href: '~4.5.0' }
+58 verbose addNamed [ 'vue/cli-plugin-eslint', '~4.5.0' ]
+59 verbose addNamed [ null, '>=4.5.0-0 <4.6.0-0' ]
+60 silly lockFile 6feba253-vue-cli-plugin-babel-4-5-0 vue/cli-plugin-babel@~4.5.0
+61 verbose lock vue/cli-plugin-babel@~4.5.0 /home/salai/.npm/6feba253-vue-cli-plugin-babel-4-5-0.lock
+62 silly lockFile c3471493-vue-cli-plugin-eslint-4-5-0 vue/cli-plugin-eslint@~4.5.0
+63 verbose lock vue/cli-plugin-eslint@~4.5.0 /home/salai/.npm/c3471493-vue-cli-plugin-eslint-4-5-0.lock
+64 verbose already installed skipping babel-eslint@^10.1.0 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+65 verbose cache add name="" spec="vue/cli-service@~4.5.0" args=["","vue/cli-service@~4.5.0"]
+66 verbose parsed url { protocol: null,
+66 verbose parsed url   slashes: null,
+66 verbose parsed url   auth: null,
+66 verbose parsed url   host: null,
+66 verbose parsed url   port: null,
+66 verbose parsed url   hostname: null,
+66 verbose parsed url   hash: null,
+66 verbose parsed url   search: null,
+66 verbose parsed url   query: null,
+66 verbose parsed url   pathname: 'vue/cli-service@~4.5.0',
+66 verbose parsed url   path: 'vue/cli-service@~4.5.0',
+66 verbose parsed url   href: 'vue/cli-service@~4.5.0' }
+67 verbose cache add name="vue/cli-service" spec="~4.5.0" args=["vue/cli-service","~4.5.0"]
+68 verbose parsed url { protocol: null,
+68 verbose parsed url   slashes: null,
+68 verbose parsed url   auth: null,
+68 verbose parsed url   host: null,
+68 verbose parsed url   port: null,
+68 verbose parsed url   hostname: null,
+68 verbose parsed url   hash: null,
+68 verbose parsed url   search: null,
+68 verbose parsed url   query: null,
+68 verbose parsed url   pathname: '~4.5.0',
+68 verbose parsed url   path: '~4.5.0',
+68 verbose parsed url   href: '~4.5.0' }
+69 verbose addNamed [ 'vue/cli-service', '~4.5.0' ]
+70 verbose addNamed [ null, '>=4.5.0-0 <4.6.0-0' ]
+71 silly lockFile ed99bad3-vue-cli-service-4-5-0 vue/cli-service@~4.5.0
+72 verbose lock vue/cli-service@~4.5.0 /home/salai/.npm/ed99bad3-vue-cli-service-4-5-0.lock
+73 silly addNameRange { name: 'vue/cli-plugin-eslint',
+73 silly addNameRange   range: '>=4.5.0-0 <4.6.0-0',
+73 silly addNameRange   hasData: false }
+74 silly addNameRange { name: 'vue/cli-plugin-babel',
+74 silly addNameRange   range: '>=4.5.0-0 <4.6.0-0',
+74 silly addNameRange   hasData: false }
+75 verbose already installed skipping eslint@^6.7.2 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+76 verbose request where is /vue/cli-plugin-eslint
+77 verbose request registry https://registry.npmjs.org/
+78 verbose request id 70c81c69a0b65bf9
+79 verbose url raw /vue/cli-plugin-eslint
+80 verbose url resolving [ 'https://registry.npmjs.org/', './vue/cli-plugin-eslint' ]
+81 verbose url resolved https://registry.npmjs.org/vue/cli-plugin-eslint
+82 verbose request where is https://registry.npmjs.org/vue/cli-plugin-eslint
+83 info trying registry request attempt 1 at 19:46:15
+84 http GET https://registry.npmjs.org/vue/cli-plugin-eslint
+85 verbose already installed skipping eslint-plugin-vue@^6.2.2 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+86 verbose already installed skipping vue-template-compiler@^2.6.11 /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+87 silly addNameRange { name: 'vue/cli-service',
+87 silly addNameRange   range: '>=4.5.0-0 <4.6.0-0',
+87 silly addNameRange   hasData: false }
+88 verbose request where is /vue/cli-plugin-babel
+89 verbose request registry https://registry.npmjs.org/
+90 verbose url raw /vue/cli-plugin-babel
+91 verbose url resolving [ 'https://registry.npmjs.org/', './vue/cli-plugin-babel' ]
+92 verbose url resolved https://registry.npmjs.org/vue/cli-plugin-babel
+93 verbose request where is https://registry.npmjs.org/vue/cli-plugin-babel
+94 info trying registry request attempt 1 at 19:46:15
+95 http GET https://registry.npmjs.org/vue/cli-plugin-babel
+96 verbose request where is /vue/cli-service
+97 verbose request registry https://registry.npmjs.org/
+98 verbose url raw /vue/cli-service
+99 verbose url resolving [ 'https://registry.npmjs.org/', './vue/cli-service' ]
+100 verbose url resolved https://registry.npmjs.org/vue/cli-service
+101 verbose request where is https://registry.npmjs.org/vue/cli-service
+102 info trying registry request attempt 1 at 19:46:15
+103 http GET https://registry.npmjs.org/vue/cli-service
+104 http 405 https://registry.npmjs.org/vue/cli-plugin-eslint
+105 silly registry.get cb [ 405,
+105 silly registry.get   { date: 'Wed, 20 Jul 2022 00:46:58 GMT',
+105 silly registry.get     'content-type': 'application/json',
+105 silly registry.get     'content-length': '63',
+105 silly registry.get     connection: 'keep-alive',
+105 silly registry.get     'cf-ray': '72d7aececfa49afe-GYE',
+105 silly registry.get     allow: 'PUT',
+105 silly registry.get     'cf-cache-status': 'DYNAMIC',
+105 silly registry.get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+105 silly registry.get     vary: 'Accept-Encoding',
+105 silly registry.get     server: 'cloudflare' } ]
+106 http 405 https://registry.npmjs.org/vue/cli-service
+107 silly registry.get cb [ 405,
+107 silly registry.get   { date: 'Wed, 20 Jul 2022 00:46:58 GMT',
+107 silly registry.get     'content-type': 'application/json',
+107 silly registry.get     'content-length': '63',
+107 silly registry.get     connection: 'keep-alive',
+107 silly registry.get     'cf-ray': '72d7aecedfe99afb-GYE',
+107 silly registry.get     allow: 'PUT',
+107 silly registry.get     'cf-cache-status': 'DYNAMIC',
+107 silly registry.get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+107 silly registry.get     vary: 'Accept-Encoding',
+107 silly registry.get     server: 'cloudflare' } ]
+108 silly lockFile ed99bad3-vue-cli-service-4-5-0 vue/cli-service@~4.5.0
+109 silly lockFile ed99bad3-vue-cli-service-4-5-0 vue/cli-service@~4.5.0
+110 error Error: Method Not Allowed
+110 error     at errorResponse (/home/salai/.nvm/v0.10.31/lib/node_modules/npm/lib/cache/add-named.js:260:10)
+110 error     at /home/salai/.nvm/v0.10.31/lib/node_modules/npm/lib/cache/add-named.js:203:12
+110 error     at saved (/home/salai/.nvm/v0.10.31/lib/node_modules/npm/node_modules/npm-registry-client/lib/get.js:167:7)
+110 error     at Object.oncomplete (fs.js:107:15)
+111 error If you need help, you may report this *entire* log,
+111 error including the npm and node versions, at:
+111 error     <http://github.com/npm/npm/issues>
+112 error System Linux 5.14.0-1033-oem
+113 error command "/home/salai/.nvm/v0.10.31/bin/node" "/home/salai/.nvm/v0.10.31/bin/npm" "install"
+114 error cwd /home/salai/miguel/bim2/taller14-MiguelCaraguay/desarrollo/proyecto-vuejs/app-consumo-2
+115 error node -v v0.10.31
+116 error npm -v 1.4.23
+117 error code E405
+118 verbose exit [ 1, true ]
